@@ -1,0 +1,294 @@
+@media only screen and (max-width: 1024px) {
+  .hi {
+    font-size: 48px;
+  }
+
+  .intro-text {
+    font-size: 12px;
+  }
+
+  h3 {
+    padding: 0.5% 1%;
+    margin: 0;
+    font-size: 18px;
+  }
+  h4 {
+    padding: 0.5% 1%;
+    margin: 0;
+    font-size: 17px;
+  }
+
+  .nav-text a {
+    font-size: 13px;
+  }
+
+  .icon,
+  .icon-mid {
+    display: inline-block;
+  }
+  #icon-callaway-1,
+  #icon-callaway-2,
+  #icon-callaway-3 {
+    margin-top: -4.4px;
+    font-size: 8px;
+    padding: 1%;
+  }
+
+  #icon-callaway-1 {
+    margin-right: -6px;
+  }
+
+  #icon-callaway-2 {
+    margin-top: -4.4px;
+    margin-right: 23px;
+  }
+
+  #icon-callaway-3 {
+    margin-right: 109px;
+    margin-right: 103px;
+  }
+
+  #icon-openglass-1,
+  #icon-openglass-2,
+  #icon-openglass-3 {
+    margin-top: -4.4px;
+    font-size: 8px;
+    padding: 1%;
+  }
+
+  #icon-openglass-1 {
+    margin-right: -6px;
+  }
+
+  #icon-openglass-2 {
+    margin-top: -4.4px;
+    margin-right: 21.7px;
+  }
+
+  #icon-openglass-3 {
+    margin-right: 79px;
+  }
+
+  #icon-upstream-1,
+  #icon-upstream-2,
+  #icon-upstream-3 {
+    margin-top: -4.4px;
+    font-size: 8px;
+    padding: 1%;
+  }
+
+  #icon-upstream-1 {
+    margin-right: -6px;
+  }
+
+  #upstream-tag2 {
+    margin-right: 26px;
+  }
+
+  .coolphone {
+    display: none;
+  }
+  #icon-epsilon-1,
+  #icon-epsilon-2 {
+    font-size: 8px;
+    padding: 1%;
+    margin-top: -4px;
+  }
+
+  #icon-epsilon-2 {
+    margin-right: 29px;
+    font-size: 8px;
+    padding: 1%;
+  }
+  small {
+    font-size: 8px;
+    padding: 0;
+    margin-top: 0px;
+  }
+  #aiicon2 {
+    margin-left: 47px;
+  }
+
+  #aiicon3 {
+    margin-left: 112.5px;
+  }
+
+  #aiicon4 {
+    margin-left: 129px;
+  }
+}
+
+#curtis1,
+#curtis-tag {
+  display: inline-block;
+  font-size: 8px;
+  padding: 0.3%;
+  margin-top: 0px;
+}
+#curtis-tag {
+  margin-right: 24px;
+}
+
+#vulcan1,
+#vulcan-tag {
+  display: inline-block;
+  font-size: 8px;
+  padding: 0.5%;
+  margin-top: 0px;
+  margin-right: -6px;
+}
+#vulcan-tag {
+  margin-right: 18px;
+}
+
+@media only screen and (max-width: 720px) {
+  .hi {
+    font-size: 48px;
+  }
+
+  .intro-text {
+    font-size: 12px;
+  }
+
+  h3 {
+    padding: 0.5% 1%;
+    margin: 0;
+    font-size: 14px;
+  }
+  h4 {
+    padding: 0.5% 1%;
+    margin: 0;
+    font-size: 17px;
+  }
+
+  .nav-text a {
+    font-size: 13px;
+  }
+
+  .icon,
+  .icon-mid {
+    display: inline-block;
+    display: none;
+  }
+  #icon-callaway-1,
+  #icon-callaway-2,
+  #icon-callaway-3 {
+    margin-top: -4.4px;
+    font-size: 8px;
+    padding: 1%;
+  }
+
+  #icon-callaway-1 {
+    margin-right: -6px;
+  }
+
+  #icon-callaway-2 {
+    margin-top: -4.4px;
+    margin-right: 23px;
+  }
+
+  #icon-callaway-3 {
+    margin-right: 109px;
+    margin-right: 103px;
+  }
+
+  #icon-openglass-1,
+  #icon-openglass-2,
+  #icon-openglass-3 {
+    margin-top: -4.4px;
+    font-size: 8px;
+    padding: 1%;
+  }
+
+  #icon-openglass-1 {
+    margin-right: -6px;
+  }
+
+  #icon-openglass-2 {
+    margin-top: -4.4px;
+    margin-right: 21.7px;
+  }
+
+  #icon-openglass-3 {
+    margin-right: 79px;
+  }
+  .icon-upstream {
+    display: none;
+  }
+  #icon-upstream-1,
+  #icon-upstream-2,
+  #icon-upstream-3 {
+    margin-top: -4.4px;
+    font-size: 8px;
+    padding: 1%;
+    display: none;
+  }
+
+  #icon-upstream-1 {
+    margin-right: -6px;
+    display: none;
+  }
+
+  #upstream-tag2 {
+    margin-right: 26px;
+    display: none;
+  }
+
+  .coolphone {
+    display: none;
+  }
+  #icon-epsilon-1,
+  #icon-epsilon-2 {
+    font-size: 8px;
+    padding: 1%;
+    margin-top: -4px;
+    display: none;
+  }
+
+  #icon-epsilon-2 {
+    margin-right: 29px;
+    font-size: 8px;
+    padding: 1%;
+  }
+  small {
+    font-size: 8px;
+    padding: 0;
+    margin-top: 0px;
+  }
+  #aiicon2 {
+    margin-left: 47px;
+  }
+
+  #aiicon3 {
+    margin-left: 112.5px;
+  }
+
+  #aiicon4 {
+    margin-left: 129px;
+  }
+}
+
+#curtis1,
+#curtis-tag {
+  display: inline-block;
+  font-size: 8px;
+  padding: 0.3%;
+  margin-top: 0px;
+  display: none;
+}
+#curtis-tag {
+  margin-right: 24px;
+}
+
+#vulcan1,
+#vulcan-tag {
+  display: inline-block;
+  font-size: 8px;
+  padding: 0.5%;
+  margin-top: 0px;
+  margin-right: -6px;
+  display: none;
+}
+#vulcan-tag {
+  margin-right: 18px;
+}
