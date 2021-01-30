@@ -1,0 +1,327 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Helvetica, Arial, sans-serif;
+  color: rgba(232, 85, 85, 1);
+}
+
+a {
+  color: rgba(232, 85, 85, 1);
+  text-decoration: none;
+}
+body {
+  background-color: rgba(20, 22, 56, 1);
+}
+
+a:hover {
+  text-decoration: none;
+  color: lightgrey;
+}
+
+.col-content:hover {
+  background-color: rgba(232, 85, 85, 1);
+  color: rgba(20, 22, 56, 1);
+  transition: 0.2s;
+}
+
+.col-content:hover a {
+  transition: 0.2s;
+  color: rgba(20, 22, 56, 1);
+}
+
+.main-nav {
+  text-decoration: none;
+}
+
+.col-content {
+  border-bottom: solid 1px rgba(232, 85, 85, 1);
+}
+
+.nav-text {
+  padding: 1% 2%;
+}
+
+.nav-text a {
+  font-size: 16px;
+}
+
+.about {
+  border-left: solid 1px rgba(232, 85, 85, 1);
+}
+
+.hero-text {
+  padding-top: 9%;
+  padding-bottom: 9%;
+}
+
+.hi {
+  padding-left: 20%;
+  font-size: 64px;
+  font-weight: bold;
+}
+
+.intro {
+  padding-right: 10%;
+}
+
+.intro-text {
+  padding-top: 5%;
+  font-size: 17px;
+  padding-right: 23%;
+}
+
+h4 {
+  padding: 0.5% 1%;
+  margin: 0;
+  font-size: 20px;
+}
+
+h3 {
+  font-size: 22px;
+}
+
+.works {
+  border-top: solid 1px rgba(232, 85, 85, 1);
+  border-bottom: solid 1px rgba(232, 85, 85, 1);
+}
+
+.work-text {
+}
+
+.ai-text {
+  font-size: 20px;
+  padding-top: 1.5%;
+  padding-bottom: 4%;
+  padding-left: 2%;
+  border-left: solid 1px rgba(232, 85, 85, 1);
+  border-right: solid 1px rgba(232, 85, 85, 1);
+}
+
+.ai-text:hover {
+  background-color: rgba(232, 85, 85, 1);
+  transition: 0.2s;
+}
+
+.ai-text:hover h3,
+.ai-text:hover small {
+  color: rgba(20, 22, 56, 1);
+  transition: 0.2s;
+}
+
+.ai-text:hover small {
+  border: rgba(20, 22, 56, 1) solid 1px;
+  transition: 0.2s;
+}
+.col-7 {
+  padding-left: 0;
+
+  position: relative;
+  overflow: hidden;
+}
+
+.icon {
+  font-size: 11px;
+  position: absolute;
+  bottom: 6%;
+  margin-right: 11%;
+  padding: 0px 2px;
+  border: solid 1px rgba(232, 85, 85, 1);
+}
+
+.icon-upstream {
+  font-size: 11px;
+  position: absolute;
+  bottom: 6%;
+  right: 13%;
+  padding: 0px 2px;
+  border: solid 1px rgba(232, 85, 85, 1);
+}
+
+#upstream-tag2 {
+  margin-right: 40px;
+}
+
+h6 {
+  font-size: 13px;
+}
+
+#aiicon1 {
+}
+
+small {
+  font-size: 11px;
+  padding: 0px 2px;
+}
+
+.icon-mid {
+  position: absolute;
+  right: 14px;
+  font-size: 11px;
+  top: 10px;
+  padding: 0px 2px;
+  border: solid 1px rgba(232, 85, 85, 1);
+}
+
+.icon-row-five {
+  position: absolute;
+  right: 14px;
+  font-size: 11px;
+  top: 23%;
+  padding: 0px 2px;
+  border: solid 1px rgba(232, 85, 85, 1);
+}
+
+#icon-callaway-2 {
+  margin-right: 35px;
+}
+
+#icon-callaway-3 {
+  margin-right: 140px;
+}
+
+#aiicon2 {
+  margin-left: 65px;
+}
+
+#aiicon3 {
+  margin-left: 155px;
+}
+
+#aiicon4 {
+  margin-left: 177.5px;
+}
+
+#icon-openglass-2 {
+  margin-right: 35px;
+}
+
+#icon-openglass-3 {
+  margin-right: 110px;
+}
+
+.col-5,
+.col-4,
+.col-6 {
+  padding: 0;
+  border-left: solid 1px rgba(232, 85, 85, 1);
+  overflow: none;
+  border-bottom: solid 1px rgba(232, 85, 85, 1);
+}
+
+.five-one {
+  padding-bottom: 1.53px;
+}
+
+.ai-img {
+  max-width: 100%;
+  height: auto;
+}
+
+.coo {
+  /* border-bottom: solid 1px white; */
+}
+
+.mid-pic {
+  padding: 2%;
+}
+
+#vulcan-pic {
+  padding: 3%;
+}
+
+.mid-text {
+  padding-left: 4%;
+  padding-bottom: 3px;
+  border-bottom: solid 1px rgba(232, 85, 85, 1);
+  border-top: solid 1px rgba(232, 85, 85, 1);
+}
+
+.mid-text:hover {
+  background-color: rgba(232, 85, 85, 1);
+  transition: 0.2s;
+}
+
+.mid-text:hover h3,
+.mid-text:hover small {
+  color: black;
+  transition: 0.2s;
+}
+
+.mid-text:hover small {
+  border: rgba(20, 22, 56, 1) solid 1px;
+  transition: 0.2s;
+}
+
+.mid-text:hover a {
+  color: rgba(20, 22, 56, 1);
+  transition: 0.2s;
+}
+
+.title {
+  padding-left: 4%;
+  padding-bottom: 3px;
+}
+
+.title:hover {
+  background-color: rgba(232, 85, 85, 1);
+  border: none;
+  transition: 0.2s;
+}
+
+.title:hover h4 {
+  color: rgba(20, 22, 56, 1);
+  text-decoration: none;
+  border: none;
+  transition: 0.2s;
+}
+
+.title:hover small {
+  color: rgba(20, 22, 56, 1);
+  border: 1px solid rgba(20, 22, 56, 1);
+  transition: 0.2s;
+}
+
+#vulcan-title {
+  padding-top: 0.3%;
+}
+
+#vulcan-tag,
+#curtis-tag {
+  margin-right: 35px;
+}
+
+.mid-text3 {
+  border-top: solid 1px rgba(232, 85, 85, 1);
+  border-bottom: solid 1px rgba(232, 85, 85, 1);
+}
+
+.upstream-tag,
+.upstream-pic {
+  border-top: solid 1px rgba(232, 85, 85, 1);
+  border-right: solid 1px rgba(232, 85, 85, 1);
+  border-left: solid 1px rgba(232, 85, 85, 1);
+}
+
+.upstream-tag:hover {
+  background-color: rgba(232, 85, 85, 1);
+  color: rgba(20, 22, 56, 1);
+  transition: 0.2s;
+}
+
+.upstream-tag:hover a {
+  color: rgba(20, 22, 56, 1);
+  transition: 0.2s;
+}
+
+.upstream-tag:hover small {
+  color: rgba(20, 22, 56, 1);
+  border: 1px solid rgba(20, 22, 56, 1);
+  transition: 0.2s;
+}
+
+.upstream-tag h3 {
+  position: absolute;
+  top: 4%;
+  right: 13%;
+}
